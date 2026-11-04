@@ -15,7 +15,7 @@
 		</Address>
 	</NationalPark>
 	<!-- Park 2: Zion National Park -->
-	<NationalPark>
+	<NationalPark Rating="4.8">
 		<Name>Zion National Park</Name>
 		<Phone>435-772-3256</Phone>
 		<Address NearestAirport="St. George Regional Airport">
@@ -27,7 +27,7 @@
 		</Address>
 	</NationalPark>
 	<!-- Park 3: Rocky Mountain National Park -->
-	<NationalPark>
+<NationalPark Rating="4.7">
 		<Name>Rocky Mountain National Park</Name>
 		<Phone>970-586-1206</Phone>
 		<Phone>970-586-1222</Phone>
