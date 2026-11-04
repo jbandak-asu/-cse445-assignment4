@@ -94,3 +94,53 @@
 		<Phone>540-999-3500</Phone>
 		<Address NearestAirport="Luray Caverns Airport">
 			<Number>3655</Number>
+			
+            <Street>Highway 211 East</Street>
+            <City>Luray</City>
+            <State>VA</State>
+            <Zip>22835</Zip>
+        </Address>
+    </NationalPark>
+
+    <!-- Park 9: Canyonlands National Park -->
+    <NationalPark>
+        <Name>Canyonlands National Park</Name>
+        <Phone>435-719-2313</Phone>
+        <Phone>435-241-3110</Phone>
+        <Address NearestAirport="Canyonlands Field Airport">
+            <Number>2282</Number>
+            <Street>SW Resource Blvd</Street>
+            <City>Moab</City>
+            <State>UT</State>
+            <Zip>84532</Zip>
+        </Address>
+    </NationalPark>
+
+    <!-- Park 10: Mount Rainier National Park -->
+    <NationalPark>
+        <Name>Mount Rainier National Park</Name>
+        <Phone>360-569-2211</Phone>
+        <Address NearestAirport="Seattle-Tacoma International Airport">
+            <Number>55210</Number>
+            <Street>238th Avenue East</Street>
+            <City>Ashford</City>
+            <State>WA</State>
+            <Zip>98304</Zip>
+        </Address>
+    </NationalPark>
+
+    <!-- Park 11: Saguaro National Park -->
+    <NationalPark>
+        <Name>Saguaro National Park</Name>
+        <Phone>520-733-5153</Phone>
+        <Phone>520-733-5158</Phone>
+        <Address NearestAirport="Tucson International Airport">
+            <Number>3693</Number>
+            <Street>South Old Spanish Trail</Street>
+            <City>Tucson</City>
+            <State>AZ</State>
+            <Zip>85730</Zip>
+        </Address>
+    </NationalPark>
+
+</NationalParks>
